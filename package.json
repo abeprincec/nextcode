@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.60.0"
     },
+    "publisher": "Abraham",
+    "repository": {
+        "url": "https://github.com/abeprincec/nextcode"
+    },
     "categories": [
         "Themes"
     ],

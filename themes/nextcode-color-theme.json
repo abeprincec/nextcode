@@ -30,7 +30,7 @@
 		"editor.background": "#1626367f",
 		"editor.findMatchBackground": "#5f7e9779",
 		"editor.findMatchHighlightBackground": "#1085bb5d",
-		"editor.foreground": "#FFF",
+		"editor.foreground": "#ffffff90",
 		"editor.hoverHighlightBackground": "#7e57c25a",
 		"editor.inactiveSelectionBackground": "#7e57c25a",
 		"editor.lineHighlightBackground": "#1f2d40",
@@ -655,8 +655,8 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#FFFFFF",
-				"fontStyle": "bold"
+				"foreground": "#3BA5BA",
+				//"fontStyle": "bold"
 			}
 		},
 		{
