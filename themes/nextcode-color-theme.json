@@ -747,7 +747,9 @@
 				"meta.jsx.children.js",
 				"text.html.derivative",
 				"meta.paragraph.markdown",
-				"text.html.markdown"
+				"text.html.markdown",
+				"meta.jsx.children.tsx",
+				"meta.jsx.children.ts"
 			],
 			"settings": {
 				"foreground": "#dbe5f0",
