@@ -383,7 +383,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#dbe5f0"
 			}
 		},
 		{
@@ -470,7 +470,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#dbe5f0"
 			}
 		},
 		{
@@ -526,7 +526,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#dbe5f0"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 				"constant.other.placeholder", // placeholders in strings
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#dbe5f0"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#dbe5f0",
 			}
 		},
 		{
